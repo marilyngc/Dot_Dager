@@ -27,15 +27,15 @@ const MainContext = () => {
           </article>
           <article>
             <img src={pan1} alt="" />
-            <h3>Pequeño Pan</h3>
+            <h3>Muerdo Pan</h3>
           </article>
           <article>
             <img src={pan2} alt="" />
-            <h3>Big Bushes</h3>
+            <h3>Dejo Pan</h3>
           </article>
           <article>
             <img src={pan3} alt="" />
-            <h3>Little Rocks</h3>
+            <h3>Te Miro</h3>
           </article>
         </div>
         <div className="snapper"></div>
